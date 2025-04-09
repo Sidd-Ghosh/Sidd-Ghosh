@@ -1,24 +1,41 @@
-##  <h1 align="center">Hi!, I'm Siddharth Ghosh</h1>
-<h3 align="center">A JEE 2027 Aspirant who wants to get into the field of Robotics & A.I and a will to be as cool as Tony Stark</h3>
+<h2 align="left">Hey! I'm Siddharth Ghosh.</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sidd-ghosh&label=Profile%20views&color=0e75b6&style=flat" alt="sidd-ghosh" /> </p>
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sidd-ghosh" alt="sidd-ghosh" /></a> </p>
+<p align="left">A JEE Aspirant who wants to get into the Robotics and AI field and become the next Tony Stark!!</p>
 
-- 🌱 I’m currently learning **Learning Python,C++ and Bash for A.I and ML**
+###
 
-- 📫 How to reach me **nixceus@gmail.com**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+</div>
 
-- ⚡ Fun fact **"TONY STARK WAS ABLE TO BUILD THIS IN A CAVE. WITH A BOX OF SCRAPS" -I think it was his Uncle**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+###
 
+<img align="right" height="163" src="https://media4.giphy.com/media/pGVrRLHRzoRcQ/200w.gif?cid=6c09b9528h792ggwsacwfeaq3bh6qv2te10t66qtfeq4d5cw&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
+###
+
+<p align="left">"TONY STARK WAS ABLE TO BUILD THIS IN A CAVE. WITH A BOX OF SCRAPS." - I think it was his Uncle</p>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Sidd-Ghosh/Sidd-Ghosh/output/snake.svg" alt="Snake animation" />
+
+###
+ 
 
 
 
