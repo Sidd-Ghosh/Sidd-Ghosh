@@ -37,7 +37,8 @@
 
 <ul align="left">
   <li>✅ <a href="https://drive.google.com/file/d/1OjzQdRbkbGO4cPABZlwYRkW7BdTu8ywT/view?usp=drive_link" target="_blank">Python for Everybody – Course 1 of 5 completed</a> (by Dr. Charles Severance)</li>
-  <li>🔄 Python for Everybody – Course 2 of 5 in progress</li>
+  <li>✅ <a href="https://drive.google.com/file/d/1OjzQdRbkbGO4cPABZlwYRkW7BdTu8ywT/view?usp=drive_link" target="_blank">Python for Everybody – Course 2 of 5 completed</a> (by Dr. Charles Severance)</li> 
+  <li>🔄 Python for Everybody – Course 3 of 5 in progress</li>
 </ul>
 
  
